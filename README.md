@@ -1,16 +1,13 @@
-## Hi there 👋
+# Matheus
 
-<!--
-**baarsi/baarsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o Matheus, Engenheiro de Produção com uma carreira construída e focada em tecnologia e análise de dados. Minha jornada profissional combina uma sólida base em otimização de processos e gestão de operações com um entusiasmo crescente por programação, machine learning e business intelligence.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Sobre Mim
+
+- 🎓 **Formação**: Engenheiro de Produção pela Universidade Presbiteriana Mackenzie.  
+- 💼 **Experiência Profissional**:  
+  - Estágios nas áreas de pós-vendas, vendas e garantia da qualidade em grandes empresas como **Siemens**, **Bosch** e **Joyson Safety Systems**.  
+  - Atuação com **análise de dados**, **mapeamento de processos** e **melhoria contínua** utilizando metodologias como **Lean Six Sigma** (certificação Yellow Belt).  
+- 💡 **Foco Atual**: Desenvolvimento de habilidades em **Data Analytics**, programação em **Python** e **SQL**, e aplicação prática de **inteligência artificial** (Keras/TensorFlow).  
