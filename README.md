@@ -1,6 +1,6 @@
 # Matheus
 
-Sou o Matheus, Engenheiro de Produção com uma carreira construída e focada em tecnologia e análise de dados. Minha jornada profissional combina uma sólida base em otimização de processos e gestão de operações com um entusiasmo crescente por programação, machine learning e business intelligence.
+Sou o Matheus, engenheiro de produção com uma carreira construída e focada em tecnologia e análise de dados. Minha jornada profissional combina uma sólida base em otimização de processos e gestão de operações com um entusiasmo crescente por programação, machine learning e business intelligence.
 
 ---
 
